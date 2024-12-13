@@ -1,0 +1,3 @@
+AWS Data Transfer	
+
+1.0 GB are always free per month as part of AWS Free Usage Tier (Global-DataTransfer-Regional-Bytes)

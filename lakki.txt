@@ -1,3 +1,5 @@
 AWS Data Transfer	
 
 1.0 GB are always free per month as part of AWS Free Usage Tier (Global-DataTransfer-Regional-Bytes)
+
+The error message ! [rejected] main -> main (non-fast-forward) typically occurs in Git when you're trying to push changes to a remote repository, but the remote branch has changes that your local branch doesn't have. This means a "non-fast-forward" update is required, but Git prevents it by default to avoid overwriting changes.
